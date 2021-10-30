@@ -1,0 +1,150 @@
+C:\Users\daniel\Documents\Projekt OOP\GIK2F7-.net5api\Api\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\daniel\Documents\Projekt OOP\GIK2F7-.net5api\Api\bin\Debug\net5.0\appsettings.json
+C:\Users\daniel\Documents\Projekt OOP\GIK2F7-.net5api\Api\bin\Debug\net5.0\Api.exe
+C:\Users\daniel\Documents\Projekt OOP\GIK2F7-.net5api\Api\bin\Debug\net5.0\Api.deps.json
+C:\Users\daniel\Documents\Projekt OOP\GIK2F7-.net5api\Api\bin\Debug\net5.0\Api.runtimeconfig.json
+C:\Users\daniel\Documents\Projekt OOP\GIK2F7-.net5api\Api\bin\Debug\net5.0\Api.runtimeconfig.dev.json
+C:\Users\daniel\Documents\Projekt OOP\GIK2F7-.net5api\Api\bin\Debug\net5.0\Api.dll
+C:\Users\daniel\Documents\Projekt OOP\GIK2F7-.net5api\Api\bin\Debug\net5.0\ref\Api.dll
+C:\Users\daniel\Documents\Projekt OOP\GIK2F7-.net5api\Api\bin\Debug\net5.0\Api.pdb
+C:\Users\daniel\Documents\Projekt OOP\GIK2F7-.net5api\Api\bin\Debug\net5.0\HealthChecks.MongoDb.dll
+C:\Users\daniel\Documents\Projekt OOP\GIK2F7-.net5api\Api\bin\Debug\net5.0\Dapper.dll
+C:\Users\daniel\Documents\Projekt OOP\GIK2F7-.net5api\Api\bin\Debug\net5.0\DnsClient.dll
+C:\Users\daniel\Documents\Projekt OOP\GIK2F7-.net5api\Api\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\daniel\Documents\Projekt OOP\GIK2F7-.net5api\Api\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+C:\Users\daniel\Documents\Projekt OOP\GIK2F7-.net5api\Api\bin\Debug\net5.0\Microsoft.Data.Sqlite.dll
+C:\Users\daniel\Documents\Projekt OOP\GIK2F7-.net5api\Api\bin\Debug\net5.0\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+C:\Users\daniel\Documents\Projekt OOP\GIK2F7-.net5api\Api\bin\Debug\net5.0\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+C:\Users\daniel\Documents\Projekt OOP\GIK2F7-.net5api\Api\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\daniel\Documents\Projekt OOP\GIK2F7-.net5api\Api\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\daniel\Documents\Projekt OOP\GIK2F7-.net5api\Api\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\daniel\Documents\Projekt OOP\GIK2F7-.net5api\Api\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\daniel\Documents\Projekt OOP\GIK2F7-.net5api\Api\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\daniel\Documents\Projekt OOP\GIK2F7-.net5api\Api\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\daniel\Documents\Projekt OOP\GIK2F7-.net5api\Api\bin\Debug\net5.0\MongoDB.Bson.dll
+C:\Users\daniel\Documents\Projekt OOP\GIK2F7-.net5api\Api\bin\Debug\net5.0\MongoDB.Driver.dll
+C:\Users\daniel\Documents\Projekt OOP\GIK2F7-.net5api\Api\bin\Debug\net5.0\MongoDB.Driver.Core.dll
+C:\Users\daniel\Documents\Projekt OOP\GIK2F7-.net5api\Api\bin\Debug\net5.0\MongoDB.Libmongocrypt.dll
+C:\Users\daniel\Documents\Projekt OOP\GIK2F7-.net5api\Api\bin\Debug\net5.0\SharpCompress.dll
+C:\Users\daniel\Documents\Projekt OOP\GIK2F7-.net5api\Api\bin\Debug\net5.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\daniel\Documents\Projekt OOP\GIK2F7-.net5api\Api\bin\Debug\net5.0\SQLitePCLRaw.nativelibrary.dll
+C:\Users\daniel\Documents\Projekt OOP\GIK2F7-.net5api\Api\bin\Debug\net5.0\SQLitePCLRaw.core.dll
+C:\Users\daniel\Documents\Projekt OOP\GIK2F7-.net5api\Api\bin\Debug\net5.0\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\daniel\Documents\Projekt OOP\GIK2F7-.net5api\Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\daniel\Documents\Projekt OOP\GIK2F7-.net5api\Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\daniel\Documents\Projekt OOP\GIK2F7-.net5api\Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\daniel\Documents\Projekt OOP\GIK2F7-.net5api\Api\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\daniel\Documents\Projekt OOP\GIK2F7-.net5api\Api\bin\Debug\net5.0\runtimes\win\native\libzstd.dll
+C:\Users\daniel\Documents\Projekt OOP\GIK2F7-.net5api\Api\bin\Debug\net5.0\runtimes\win\native\snappy32.dll
+C:\Users\daniel\Documents\Projekt OOP\GIK2F7-.net5api\Api\bin\Debug\net5.0\runtimes\win\native\snappy64.dll
+C:\Users\daniel\Documents\Projekt OOP\GIK2F7-.net5api\Api\bin\Debug\net5.0\runtimes\linux\native\libmongocrypt.so
+C:\Users\daniel\Documents\Projekt OOP\GIK2F7-.net5api\Api\bin\Debug\net5.0\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\daniel\Documents\Projekt OOP\GIK2F7-.net5api\Api\bin\Debug\net5.0\runtimes\win\native\mongocrypt.dll
+C:\Users\daniel\Documents\Projekt OOP\GIK2F7-.net5api\Api\bin\Debug\net5.0\runtimes\linux-x64\native\libsqlite3.so
+C:\Users\daniel\Documents\Projekt OOP\GIK2F7-.net5api\Api\bin\Debug\net5.0\runtimes\osx-x64\native\libsqlite3.dylib
+C:\Users\daniel\Documents\Projekt OOP\GIK2F7-.net5api\Api\bin\Debug\net5.0\runtimes\win7-x64\native\sqlite3.dll
+C:\Users\daniel\Documents\Projekt OOP\GIK2F7-.net5api\Api\bin\Debug\net5.0\runtimes\win7-x86\native\sqlite3.dll
+C:\Users\daniel\Documents\Projekt OOP\GIK2F7-.net5api\Api\bin\Debug\net5.0\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\daniel\Documents\Projekt OOP\GIK2F7-.net5api\Api\bin\Debug\net5.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\daniel\Documents\Projekt OOP\GIK2F7-.net5api\Api\bin\Debug\net5.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\daniel\Documents\Projekt OOP\GIK2F7-.net5api\Api\bin\Debug\net5.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\daniel\Documents\Projekt OOP\GIK2F7-.net5api\Api\bin\Debug\net5.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\daniel\Documents\Projekt OOP\GIK2F7-.net5api\Api\bin\Debug\net5.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\daniel\Documents\Projekt OOP\GIK2F7-.net5api\Api\bin\Debug\net5.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\daniel\Documents\Projekt OOP\GIK2F7-.net5api\Api\bin\Debug\net5.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\daniel\Documents\Projekt OOP\GIK2F7-.net5api\Api\bin\Debug\net5.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\daniel\Documents\Projekt OOP\GIK2F7-.net5api\Api\bin\Debug\net5.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\daniel\Documents\Projekt OOP\GIK2F7-.net5api\Api\bin\Debug\net5.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\daniel\Documents\Projekt OOP\GIK2F7-.net5api\Api\bin\Debug\net5.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\daniel\Documents\Projekt OOP\GIK2F7-.net5api\Api\bin\Debug\net5.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\daniel\Documents\Projekt OOP\GIK2F7-.net5api\Api\obj\Debug\net5.0\Api.csproj.AssemblyReference.cache
+C:\Users\daniel\Documents\Projekt OOP\GIK2F7-.net5api\Api\obj\Debug\net5.0\Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\daniel\Documents\Projekt OOP\GIK2F7-.net5api\Api\obj\Debug\net5.0\Api.AssemblyInfoInputs.cache
+C:\Users\daniel\Documents\Projekt OOP\GIK2F7-.net5api\Api\obj\Debug\net5.0\Api.AssemblyInfo.cs
+C:\Users\daniel\Documents\Projekt OOP\GIK2F7-.net5api\Api\obj\Debug\net5.0\Api.csproj.CoreCompileInputs.cache
+C:\Users\daniel\Documents\Projekt OOP\GIK2F7-.net5api\Api\obj\Debug\net5.0\Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\daniel\Documents\Projekt OOP\GIK2F7-.net5api\Api\obj\Debug\net5.0\Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\daniel\Documents\Projekt OOP\GIK2F7-.net5api\Api\obj\Debug\net5.0\staticwebassets\Api.StaticWebAssets.Manifest.cache
+C:\Users\daniel\Documents\Projekt OOP\GIK2F7-.net5api\Api\obj\Debug\net5.0\staticwebassets\Api.StaticWebAssets.xml
+C:\Users\daniel\Documents\Projekt OOP\GIK2F7-.net5api\Api\obj\Debug\net5.0\scopedcss\bundle\Api.styles.css
+C:\Users\daniel\Documents\Projekt OOP\GIK2F7-.net5api\Api\obj\Debug\net5.0\Api.RazorTargetAssemblyInfo.cache
+C:\Users\daniel\Documents\Projekt OOP\GIK2F7-.net5api\Api\obj\Debug\net5.0\Api.csproj.CopyComplete
+C:\Users\daniel\Documents\Projekt OOP\GIK2F7-.net5api\Api\obj\Debug\net5.0\Api.dll
+C:\Users\daniel\Documents\Projekt OOP\GIK2F7-.net5api\Api\obj\Debug\net5.0\ref\Api.dll
+C:\Users\daniel\Documents\Projekt OOP\GIK2F7-.net5api\Api\obj\Debug\net5.0\Api.pdb
+C:\Users\daniel\Documents\Projekt OOP\GIK2F7-.net5api\Api\obj\Debug\net5.0\Api.genruntimeconfig.cache
+C:\Users\zangi\Programmering\IT-säkerhet Högskolan Dalarna\Objektorienterad design och problemlösning\Projektuppgift 3.0\GIK2F7-.net5api\Api\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\zangi\Programmering\IT-säkerhet Högskolan Dalarna\Objektorienterad design och problemlösning\Projektuppgift 3.0\GIK2F7-.net5api\Api\bin\Debug\net5.0\appsettings.json
+C:\Users\zangi\Programmering\IT-säkerhet Högskolan Dalarna\Objektorienterad design och problemlösning\Projektuppgift 3.0\GIK2F7-.net5api\Api\bin\Debug\net5.0\Api.exe
+C:\Users\zangi\Programmering\IT-säkerhet Högskolan Dalarna\Objektorienterad design och problemlösning\Projektuppgift 3.0\GIK2F7-.net5api\Api\bin\Debug\net5.0\Api.deps.json
+C:\Users\zangi\Programmering\IT-säkerhet Högskolan Dalarna\Objektorienterad design och problemlösning\Projektuppgift 3.0\GIK2F7-.net5api\Api\bin\Debug\net5.0\Api.runtimeconfig.json
+C:\Users\zangi\Programmering\IT-säkerhet Högskolan Dalarna\Objektorienterad design och problemlösning\Projektuppgift 3.0\GIK2F7-.net5api\Api\bin\Debug\net5.0\Api.runtimeconfig.dev.json
+C:\Users\zangi\Programmering\IT-säkerhet Högskolan Dalarna\Objektorienterad design och problemlösning\Projektuppgift 3.0\GIK2F7-.net5api\Api\bin\Debug\net5.0\Api.dll
+C:\Users\zangi\Programmering\IT-säkerhet Högskolan Dalarna\Objektorienterad design och problemlösning\Projektuppgift 3.0\GIK2F7-.net5api\Api\bin\Debug\net5.0\ref\Api.dll
+C:\Users\zangi\Programmering\IT-säkerhet Högskolan Dalarna\Objektorienterad design och problemlösning\Projektuppgift 3.0\GIK2F7-.net5api\Api\bin\Debug\net5.0\Api.pdb
+C:\Users\zangi\Programmering\IT-säkerhet Högskolan Dalarna\Objektorienterad design och problemlösning\Projektuppgift 3.0\GIK2F7-.net5api\Api\bin\Debug\net5.0\HealthChecks.MongoDb.dll
+C:\Users\zangi\Programmering\IT-säkerhet Högskolan Dalarna\Objektorienterad design och problemlösning\Projektuppgift 3.0\GIK2F7-.net5api\Api\bin\Debug\net5.0\Dapper.dll
+C:\Users\zangi\Programmering\IT-säkerhet Högskolan Dalarna\Objektorienterad design och problemlösning\Projektuppgift 3.0\GIK2F7-.net5api\Api\bin\Debug\net5.0\DnsClient.dll
+C:\Users\zangi\Programmering\IT-säkerhet Högskolan Dalarna\Objektorienterad design och problemlösning\Projektuppgift 3.0\GIK2F7-.net5api\Api\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\zangi\Programmering\IT-säkerhet Högskolan Dalarna\Objektorienterad design och problemlösning\Projektuppgift 3.0\GIK2F7-.net5api\Api\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+C:\Users\zangi\Programmering\IT-säkerhet Högskolan Dalarna\Objektorienterad design och problemlösning\Projektuppgift 3.0\GIK2F7-.net5api\Api\bin\Debug\net5.0\Microsoft.Data.Sqlite.dll
+C:\Users\zangi\Programmering\IT-säkerhet Högskolan Dalarna\Objektorienterad design och problemlösning\Projektuppgift 3.0\GIK2F7-.net5api\Api\bin\Debug\net5.0\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+C:\Users\zangi\Programmering\IT-säkerhet Högskolan Dalarna\Objektorienterad design och problemlösning\Projektuppgift 3.0\GIK2F7-.net5api\Api\bin\Debug\net5.0\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+C:\Users\zangi\Programmering\IT-säkerhet Högskolan Dalarna\Objektorienterad design och problemlösning\Projektuppgift 3.0\GIK2F7-.net5api\Api\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\zangi\Programmering\IT-säkerhet Högskolan Dalarna\Objektorienterad design och problemlösning\Projektuppgift 3.0\GIK2F7-.net5api\Api\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\zangi\Programmering\IT-säkerhet Högskolan Dalarna\Objektorienterad design och problemlösning\Projektuppgift 3.0\GIK2F7-.net5api\Api\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\zangi\Programmering\IT-säkerhet Högskolan Dalarna\Objektorienterad design och problemlösning\Projektuppgift 3.0\GIK2F7-.net5api\Api\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\zangi\Programmering\IT-säkerhet Högskolan Dalarna\Objektorienterad design och problemlösning\Projektuppgift 3.0\GIK2F7-.net5api\Api\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\zangi\Programmering\IT-säkerhet Högskolan Dalarna\Objektorienterad design och problemlösning\Projektuppgift 3.0\GIK2F7-.net5api\Api\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\zangi\Programmering\IT-säkerhet Högskolan Dalarna\Objektorienterad design och problemlösning\Projektuppgift 3.0\GIK2F7-.net5api\Api\bin\Debug\net5.0\MongoDB.Bson.dll
+C:\Users\zangi\Programmering\IT-säkerhet Högskolan Dalarna\Objektorienterad design och problemlösning\Projektuppgift 3.0\GIK2F7-.net5api\Api\bin\Debug\net5.0\MongoDB.Driver.dll
+C:\Users\zangi\Programmering\IT-säkerhet Högskolan Dalarna\Objektorienterad design och problemlösning\Projektuppgift 3.0\GIK2F7-.net5api\Api\bin\Debug\net5.0\MongoDB.Driver.Core.dll
+C:\Users\zangi\Programmering\IT-säkerhet Högskolan Dalarna\Objektorienterad design och problemlösning\Projektuppgift 3.0\GIK2F7-.net5api\Api\bin\Debug\net5.0\MongoDB.Libmongocrypt.dll
+C:\Users\zangi\Programmering\IT-säkerhet Högskolan Dalarna\Objektorienterad design och problemlösning\Projektuppgift 3.0\GIK2F7-.net5api\Api\bin\Debug\net5.0\SharpCompress.dll
+C:\Users\zangi\Programmering\IT-säkerhet Högskolan Dalarna\Objektorienterad design och problemlösning\Projektuppgift 3.0\GIK2F7-.net5api\Api\bin\Debug\net5.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\zangi\Programmering\IT-säkerhet Högskolan Dalarna\Objektorienterad design och problemlösning\Projektuppgift 3.0\GIK2F7-.net5api\Api\bin\Debug\net5.0\SQLitePCLRaw.nativelibrary.dll
+C:\Users\zangi\Programmering\IT-säkerhet Högskolan Dalarna\Objektorienterad design och problemlösning\Projektuppgift 3.0\GIK2F7-.net5api\Api\bin\Debug\net5.0\SQLitePCLRaw.core.dll
+C:\Users\zangi\Programmering\IT-säkerhet Högskolan Dalarna\Objektorienterad design och problemlösning\Projektuppgift 3.0\GIK2F7-.net5api\Api\bin\Debug\net5.0\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\zangi\Programmering\IT-säkerhet Högskolan Dalarna\Objektorienterad design och problemlösning\Projektuppgift 3.0\GIK2F7-.net5api\Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\zangi\Programmering\IT-säkerhet Högskolan Dalarna\Objektorienterad design och problemlösning\Projektuppgift 3.0\GIK2F7-.net5api\Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\zangi\Programmering\IT-säkerhet Högskolan Dalarna\Objektorienterad design och problemlösning\Projektuppgift 3.0\GIK2F7-.net5api\Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\zangi\Programmering\IT-säkerhet Högskolan Dalarna\Objektorienterad design och problemlösning\Projektuppgift 3.0\GIK2F7-.net5api\Api\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\zangi\Programmering\IT-säkerhet Högskolan Dalarna\Objektorienterad design och problemlösning\Projektuppgift 3.0\GIK2F7-.net5api\Api\bin\Debug\net5.0\runtimes\win\native\libzstd.dll
+C:\Users\zangi\Programmering\IT-säkerhet Högskolan Dalarna\Objektorienterad design och problemlösning\Projektuppgift 3.0\GIK2F7-.net5api\Api\bin\Debug\net5.0\runtimes\win\native\snappy32.dll
+C:\Users\zangi\Programmering\IT-säkerhet Högskolan Dalarna\Objektorienterad design och problemlösning\Projektuppgift 3.0\GIK2F7-.net5api\Api\bin\Debug\net5.0\runtimes\win\native\snappy64.dll
+C:\Users\zangi\Programmering\IT-säkerhet Högskolan Dalarna\Objektorienterad design och problemlösning\Projektuppgift 3.0\GIK2F7-.net5api\Api\bin\Debug\net5.0\runtimes\linux\native\libmongocrypt.so
+C:\Users\zangi\Programmering\IT-säkerhet Högskolan Dalarna\Objektorienterad design och problemlösning\Projektuppgift 3.0\GIK2F7-.net5api\Api\bin\Debug\net5.0\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\zangi\Programmering\IT-säkerhet Högskolan Dalarna\Objektorienterad design och problemlösning\Projektuppgift 3.0\GIK2F7-.net5api\Api\bin\Debug\net5.0\runtimes\win\native\mongocrypt.dll
+C:\Users\zangi\Programmering\IT-säkerhet Högskolan Dalarna\Objektorienterad design och problemlösning\Projektuppgift 3.0\GIK2F7-.net5api\Api\bin\Debug\net5.0\runtimes\linux-x64\native\libsqlite3.so
+C:\Users\zangi\Programmering\IT-säkerhet Högskolan Dalarna\Objektorienterad design och problemlösning\Projektuppgift 3.0\GIK2F7-.net5api\Api\bin\Debug\net5.0\runtimes\osx-x64\native\libsqlite3.dylib
+C:\Users\zangi\Programmering\IT-säkerhet Högskolan Dalarna\Objektorienterad design och problemlösning\Projektuppgift 3.0\GIK2F7-.net5api\Api\bin\Debug\net5.0\runtimes\win7-x64\native\sqlite3.dll
+C:\Users\zangi\Programmering\IT-säkerhet Högskolan Dalarna\Objektorienterad design och problemlösning\Projektuppgift 3.0\GIK2F7-.net5api\Api\bin\Debug\net5.0\runtimes\win7-x86\native\sqlite3.dll
+C:\Users\zangi\Programmering\IT-säkerhet Högskolan Dalarna\Objektorienterad design och problemlösning\Projektuppgift 3.0\GIK2F7-.net5api\Api\bin\Debug\net5.0\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\zangi\Programmering\IT-säkerhet Högskolan Dalarna\Objektorienterad design och problemlösning\Projektuppgift 3.0\GIK2F7-.net5api\Api\bin\Debug\net5.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\zangi\Programmering\IT-säkerhet Högskolan Dalarna\Objektorienterad design och problemlösning\Projektuppgift 3.0\GIK2F7-.net5api\Api\bin\Debug\net5.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\zangi\Programmering\IT-säkerhet Högskolan Dalarna\Objektorienterad design och problemlösning\Projektuppgift 3.0\GIK2F7-.net5api\Api\bin\Debug\net5.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\zangi\Programmering\IT-säkerhet Högskolan Dalarna\Objektorienterad design och problemlösning\Projektuppgift 3.0\GIK2F7-.net5api\Api\bin\Debug\net5.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\zangi\Programmering\IT-säkerhet Högskolan Dalarna\Objektorienterad design och problemlösning\Projektuppgift 3.0\GIK2F7-.net5api\Api\bin\Debug\net5.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\zangi\Programmering\IT-säkerhet Högskolan Dalarna\Objektorienterad design och problemlösning\Projektuppgift 3.0\GIK2F7-.net5api\Api\bin\Debug\net5.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\zangi\Programmering\IT-säkerhet Högskolan Dalarna\Objektorienterad design och problemlösning\Projektuppgift 3.0\GIK2F7-.net5api\Api\bin\Debug\net5.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\zangi\Programmering\IT-säkerhet Högskolan Dalarna\Objektorienterad design och problemlösning\Projektuppgift 3.0\GIK2F7-.net5api\Api\bin\Debug\net5.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\zangi\Programmering\IT-säkerhet Högskolan Dalarna\Objektorienterad design och problemlösning\Projektuppgift 3.0\GIK2F7-.net5api\Api\bin\Debug\net5.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\zangi\Programmering\IT-säkerhet Högskolan Dalarna\Objektorienterad design och problemlösning\Projektuppgift 3.0\GIK2F7-.net5api\Api\bin\Debug\net5.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\zangi\Programmering\IT-säkerhet Högskolan Dalarna\Objektorienterad design och problemlösning\Projektuppgift 3.0\GIK2F7-.net5api\Api\bin\Debug\net5.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\zangi\Programmering\IT-säkerhet Högskolan Dalarna\Objektorienterad design och problemlösning\Projektuppgift 3.0\GIK2F7-.net5api\Api\bin\Debug\net5.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\zangi\Programmering\IT-säkerhet Högskolan Dalarna\Objektorienterad design och problemlösning\Projektuppgift 3.0\GIK2F7-.net5api\Api\obj\Debug\net5.0\Api.csproj.AssemblyReference.cache
+C:\Users\zangi\Programmering\IT-säkerhet Högskolan Dalarna\Objektorienterad design och problemlösning\Projektuppgift 3.0\GIK2F7-.net5api\Api\obj\Debug\net5.0\Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zangi\Programmering\IT-säkerhet Högskolan Dalarna\Objektorienterad design och problemlösning\Projektuppgift 3.0\GIK2F7-.net5api\Api\obj\Debug\net5.0\Api.AssemblyInfoInputs.cache
+C:\Users\zangi\Programmering\IT-säkerhet Högskolan Dalarna\Objektorienterad design och problemlösning\Projektuppgift 3.0\GIK2F7-.net5api\Api\obj\Debug\net5.0\Api.AssemblyInfo.cs
+C:\Users\zangi\Programmering\IT-säkerhet Högskolan Dalarna\Objektorienterad design och problemlösning\Projektuppgift 3.0\GIK2F7-.net5api\Api\obj\Debug\net5.0\Api.csproj.CoreCompileInputs.cache
+C:\Users\zangi\Programmering\IT-säkerhet Högskolan Dalarna\Objektorienterad design och problemlösning\Projektuppgift 3.0\GIK2F7-.net5api\Api\obj\Debug\net5.0\Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\zangi\Programmering\IT-säkerhet Högskolan Dalarna\Objektorienterad design och problemlösning\Projektuppgift 3.0\GIK2F7-.net5api\Api\obj\Debug\net5.0\Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\zangi\Programmering\IT-säkerhet Högskolan Dalarna\Objektorienterad design och problemlösning\Projektuppgift 3.0\GIK2F7-.net5api\Api\obj\Debug\net5.0\staticwebassets\Api.StaticWebAssets.Manifest.cache
+C:\Users\zangi\Programmering\IT-säkerhet Högskolan Dalarna\Objektorienterad design och problemlösning\Projektuppgift 3.0\GIK2F7-.net5api\Api\obj\Debug\net5.0\staticwebassets\Api.StaticWebAssets.xml
+C:\Users\zangi\Programmering\IT-säkerhet Högskolan Dalarna\Objektorienterad design och problemlösning\Projektuppgift 3.0\GIK2F7-.net5api\Api\obj\Debug\net5.0\scopedcss\bundle\Api.styles.css
+C:\Users\zangi\Programmering\IT-säkerhet Högskolan Dalarna\Objektorienterad design och problemlösning\Projektuppgift 3.0\GIK2F7-.net5api\Api\obj\Debug\net5.0\Api.RazorTargetAssemblyInfo.cache
+C:\Users\zangi\Programmering\IT-säkerhet Högskolan Dalarna\Objektorienterad design och problemlösning\Projektuppgift 3.0\GIK2F7-.net5api\Api\obj\Debug\net5.0\Api.csproj.CopyComplete
+C:\Users\zangi\Programmering\IT-säkerhet Högskolan Dalarna\Objektorienterad design och problemlösning\Projektuppgift 3.0\GIK2F7-.net5api\Api\obj\Debug\net5.0\Api.dll
+C:\Users\zangi\Programmering\IT-säkerhet Högskolan Dalarna\Objektorienterad design och problemlösning\Projektuppgift 3.0\GIK2F7-.net5api\Api\obj\Debug\net5.0\ref\Api.dll
+C:\Users\zangi\Programmering\IT-säkerhet Högskolan Dalarna\Objektorienterad design och problemlösning\Projektuppgift 3.0\GIK2F7-.net5api\Api\obj\Debug\net5.0\Api.pdb
+C:\Users\zangi\Programmering\IT-säkerhet Högskolan Dalarna\Objektorienterad design och problemlösning\Projektuppgift 3.0\GIK2F7-.net5api\Api\obj\Debug\net5.0\Api.genruntimeconfig.cache

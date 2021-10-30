@@ -1,0 +1,109 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\zangi\\Programmering\\IT-säkerhet Högskolan Dalarna\\Objektorienterad design och problemlösning\\Projektuppgift\\GIK2F7-.net5api\\Api\\Api.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\zangi\\Programmering\\IT-säkerhet Högskolan Dalarna\\Objektorienterad design och problemlösning\\Projektuppgift\\GIK2F7-.net5api\\Api\\Api.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\zangi\\Programmering\\IT-säkerhet Högskolan Dalarna\\Objektorienterad design och problemlösning\\Projektuppgift\\GIK2F7-.net5api\\Api\\Api.csproj",
+        "projectName": "Api",
+        "projectPath": "C:\\Users\\zangi\\Programmering\\IT-säkerhet Högskolan Dalarna\\Objektorienterad design och problemlösning\\Projektuppgift\\GIK2F7-.net5api\\Api\\Api.csproj",
+        "packagesPath": "C:\\Users\\zangi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\zangi\\Programmering\\IT-säkerhet Högskolan Dalarna\\Objektorienterad design och problemlösning\\Projektuppgift\\GIK2F7-.net5api\\Api\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\zangi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "AspNetCore.HealthChecks.MongoDb": {
+              "target": "Package",
+              "version": "[5.0.1, )"
+            },
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.0.90, )"
+            },
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[5.0.9, )",
+              "noWarn": [
+                "NU1605"
+              ]
+            },
+            "Microsoft.AspNetCore.Authentication.OpenIdConnect": {
+              "target": "Package",
+              "version": "[5.0.9, )",
+              "noWarn": [
+                "NU1605"
+              ]
+            },
+            "Microsoft.Data.Sqlite": {
+              "target": "Package",
+              "version": "[5.0.11, )"
+            },
+            "MongoDB.Driver": {
+              "target": "Package",
+              "version": "[2.13.1, )"
+            },
+            "SQLite": {
+              "target": "Package",
+              "version": "[3.13.0, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.2.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
